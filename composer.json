@@ -8,5 +8,6 @@
             "email": "1655664358@qq.com"
         }
     ],
+    "bin":["bin/test.php"],
     "require": {}
 }
