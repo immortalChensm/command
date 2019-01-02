@@ -1,0 +1,12 @@
+{
+    "name": "oldshiji/command",
+    "description": "test command",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oldshiji",
+            "email": "1655664358@qq.com"
+        }
+    ],
+    "require": {}
+}
